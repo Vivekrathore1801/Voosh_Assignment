@@ -1,0 +1,26 @@
+.order-buttons{
+    margin: 6px;
+    background-color: chocolate;
+    border-radius: 12px;
+    border-color: black;
+
+}
+.order-buttons-link{
+    margin-right: 50px;
+    
+}
+.details{
+    background-color: white;
+    padding: 140px;
+    margin: 10px auto;
+    border-radius: 100px;
+    height: 200px;
+    width: 150px;
+}
+.auth-form-container{
+    text-align: center;
+    font-weight: 1000;
+    font-size: 20px;
+    /* margin: 100px 100px 100px 100px; */
+    padding: 20px 50px 50px 50px;
+}
